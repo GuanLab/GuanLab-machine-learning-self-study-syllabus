@@ -1,12 +1,8 @@
+Machine Learning Self Study Syllabus
+
+
 # 1. Python and Programming
 - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-- [Python Cookbook](http://s2/~wdong/books/python_cookbook.pdf)
-	* Chapter 1
-	* Chapter 2
-	* Chapter 5: 1, 2, 5
-	* Chapter 6: 1, 2
-	* Chapter 7: 1, 2, 4, 6, 11
-
 - [Python OOP](https://docs.python.org/3/tutorial/classes.html)
 
 # 2. Data Structure and Algorithms
@@ -40,7 +36,6 @@
   * [BLAS and Cache](https://people.eecs.berkeley.edu/~demmel/cs267_Spr99/Lectures/Lect_02_1999b.pdf)
 - [File System](https://en.wikipedia.org/wiki/File_system)
 - Networks
-  * [Basic Networks, MetaSploit Chapter 3](http://s2/~wdong/books/metasploit.pdf)
   * [NetCat](http://nc110.sourceforge.net/)
   * [HTTP](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
@@ -52,14 +47,11 @@
 * [SciPy Linear Algebra](https://docs.scipy.org/doc/scipy/reference/tutorial/linalg.html)
 * [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming)
 
-## 4.2 Statistics
-* [Basic Statistics, 1-3 (materials before Chapter 1)](http://s2/~wdong/books/mackay.pdf)
 
 
 # 5. Machine Learning
 
 ## 5.1 Introduction
-* [Background, PRML Chapter 1](http://s2/~wdong/books/prml.pdf)
 * [Sklearn Quick Start](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
 ## 5.2 Data Loading
@@ -67,18 +59,17 @@
 
 ## 5.3 Regression
 * [Linear regression](https://en.wikipedia.org/wiki/Linear_regression),
-* [Linear regression, GDTR Chapter 3.1](http://s2/~wdong/books/isml.pdf)
 * [sklearn regression](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning) 1.1.1-1.1.3, 1.1.11, 1.1.12, 
 
 ## 5.4 Classification
-* [GDTR Chapter 4.1-4.3](http://s2/~wdong/books/isml.pdf)
+
 * [SVM](http://scikit-learn.org/stable/modules/svm.html) 
 * [Nearest Neighbors](http://scikit-learn.org/stable/modules/neighbors.html)
 * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
 
 ## 5.5 Evaluation
 * [Cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html)
-* [GDTR Chapter 5](http://s2/~wdong/books/isml.pdf)
+
 
 ## 5.6 Clustering
 * [Clustering](http://scikit-learn.org/stable/modules/clustering.html)
@@ -95,9 +86,6 @@
 * [Core Operations](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_core/py_table_of_contents_core/py_table_of_contents_core.html)
 * [Image Processing](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
 
-
-# 7. Deep Learning
-* [Neural Networks, PRML 5.1-5.3](http://s2/~wdong/books/prml.pdf)
 
 # 8. Database and Big Data
 ## SQL
