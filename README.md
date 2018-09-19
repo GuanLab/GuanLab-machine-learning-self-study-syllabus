@@ -1,4 +1,6 @@
-Machine Learning Self Study Syllabus
+#Machine Learning Self Study Syllabus
+
+By Wei Dong and Yuanfang Guan
 
 
 # 1. Python and Programming
