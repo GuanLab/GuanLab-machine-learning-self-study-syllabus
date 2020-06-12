@@ -1,7 +1,6 @@
-# Machine Learning Self Study Syllabus
+# Traditional Machine Learning Self-study Syllabus
 
 By Wei Dong and Yuanfang Guan
-
 
 # 1. Python and Programming
 - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
